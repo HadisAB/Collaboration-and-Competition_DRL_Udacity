@@ -44,11 +44,11 @@ I have solved the project by Deep Deterministic Policy Gradients (DDPG) algorith
 
 Follow below steps to run the code:
 1. Install all required dependencies of the project based on above links.
-2. Download the [ddpg-agent.py](https://github.com/HadisAB/Continous-Control---DRL---Udacity/blob/master/Training%20Code/ddpg_agent.py), [model.py](https://github.com/HadisAB/Continous-Control---DRL---Udacity/blob/master/Training%20Code/model.py) and [Continous Control.py](https://github.com/HadisAB/Continous-Control---DRL---Udacity/blob/master/Training%20Code/Continuous%20Control.py) files from [Training code](https://github.com/HadisAB/Continous-Control---DRL---Udacity/tree/master/Training%20Code).
+2. Download the [Collaboration and Competitionl.py](https://github.com/HadisAB/Collaboration-and-Competition_DRL_Udacity/blob/master/Training%20Codes/Collaboration%20and%20Competition.py) files from [Training code](https://github.com/HadisAB/Collaboration-and-Competition_DRL_Udacity/tree/master/Training%20Codes).
 3. Put all the downloded .py files in one folder.
-4. Open the [Continous Control.py](https://github.com/HadisAB/Continous-Control---DRL---Udacity/blob/master/Training%20Code/Continuous%20Control.py) in spyder and Run the code.
+4. Open the [Collaboration and Competitionl.py](https://github.com/HadisAB/Collaboration-and-Competition_DRL_Udacity/blob/master/Training%20Codes/Collaboration%20and%20Competition.py) in spyder and Run the code.
 
 
-Also refer to the [report](https://github.com/HadisAB/Continous-Control---DRL---Udacity/blob/master/Report.md) for more clarification of the method. 
+Also refer to the [report](https://github.com/HadisAB/Collaboration-and-Competition_DRL_Udacity/blob/master/Report.md) for more clarification of the method. 
 
 
